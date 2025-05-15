@@ -5,7 +5,7 @@ This project showcases my skills, projects, and work experience as a Full-Stack 
 
 ## 🚀 Live Site
 
-🌐 **Live URL**: [Coming Soon – Deployed via Netlify](#)  
+🌐 **Live URL**: [https://pritam-m-portfolio.netlify.app/]
 > _Paste your Netlify link above once deployed_
 
 ---
@@ -39,7 +39,6 @@ This project showcases my skills, projects, and work experience as a Full-Stack 
 - **Skills**
 - **Work Timeline**
 - **Portfolio**
-- **Blogs** (Template)
 - **Contact Me**
 
 ---
