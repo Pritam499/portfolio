@@ -5,8 +5,7 @@ This project showcases my skills, projects, and work experience as a Full-Stack 
 
 ## 🚀 Live Site
 
-🌐 **Live URL**: [Coming Soon – Deployed via Netlify](#)  
-> _Paste your Netlify link above once deployed_
+🌐 **Live URL**: https://pritam-m-portfolio.netlify.app
 
 ---
 
@@ -39,25 +38,6 @@ This project showcases my skills, projects, and work experience as a Full-Stack 
 - **Skills**
 - **Work Timeline**
 - **Portfolio**
-- **Blogs** (Template)
 - **Contact Me**
 
 ---
-
-## 📦 Installation & Local Development
-
-```bash
-git clone https://github.com/yourusername/pritam-portfolio.git
-cd pritam-portfolio
-# Open index.html in your browser
-🧑‍💻 Author
-Pritam Mondal
-
-LinkedIn
-
-GitHub
-
-Email: pritampm499@gmail.com
-
-📜 License
-This project is licensed under the MIT License — feel free to use and modify with credit.
